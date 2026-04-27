@@ -1,2 +1,2 @@
-# exploradorcl.github.io
+# explorador.cl
 La Nueva Orden Virtual
